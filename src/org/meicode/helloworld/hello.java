@@ -45,7 +45,7 @@ public class hello {
         int d = 2;
         double answerTwo = (double) c / d;
         System.out.println(answerTwo);
-        
+
         String firstName = "Jermell ";
         String lastName = "Howard Jr";
         String fullName = firstName + lastName;
